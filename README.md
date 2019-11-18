@@ -1,1 +1,1 @@
-# Shortest-Mnist-handwriting-dataset-program in 20 lines of code
+# Mnist-handwriting-dataset-program in 20 lines of code
